@@ -4,7 +4,7 @@ title: Andean Condor Algorithm
 slug: /post
 date: 2022-10-26 22:10
 description: Andean Condor Algorithm
-featuredImage: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Andean_Condor_Vultur_Gryphus_%2842232964%29.jpeg/640px-Andean_Condor_Vultur_Gryphus_%2842232964%29.jpeg
+featuredImage: ""
 ---
 The metaheuristic algorithm is inspired by the Andean Condor, which is the largest bird in the world. The metaheuristic Andean Condor Algorithm presents a balance of its population through a performance indicator based on the average quality of the population’s fitness. This balance determines the number of Andean Condors that will perform an exploration or intensification movements. Andean Condor Algorithm has a flexible design. It allows to easily integrate specific heuristics according to the optimisation problem to be solved.
 
