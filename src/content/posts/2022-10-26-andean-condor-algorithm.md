@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Andean Condor Algorithm
-slug: Andean Condor Algorithm
+slug: /post
 date: 2022-10-26 22:10
 description: Andean Condor Algorithm
 featuredImage: https://commons.wikimedia.org/wiki/File:Andean_Condor_Vultur_Gryphus_(42232964).jpeg
