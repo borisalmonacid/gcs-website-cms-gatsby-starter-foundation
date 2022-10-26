@@ -12,10 +12,7 @@ This research is published in a journal peer-review in:
 
 Almonacid, B., Soto, R. Andean Condor Algorithm for Cell Formation Problems. Natural Computing, Springer 2018.
 
-
-[https://doi.org/10.1007/s11047-018-9675-0](https://doi.org/10.1007/s11047-018-9675-0)
-<div data-badge-type="2" data-doi="https://doi.org/10.1007/s11047-018-9675-0" class="altmetric-embed"></div>
+<https://doi.org/10.1007/s11047-018-9675-0>
 
 Additional information can be found at:
-[https://doi.org/10.7287/peerj.preprints.27678v1](https://doi.org/10.7287/peerj.preprints.27678v1) 
-<div data-badge-type="2" data-doi="https://doi.org/10.7287/peerj.preprints.27678v1" class="altmetric-embed"></div>
+[](https://doi.org/10.7287/peerj.preprints.27678v1)<https://doi.org/10.7287/peerj.preprints.27678v1>
