@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Selecting Biodiversity Conservation Area
+title: Selection of Biodiversity Conservation Areas
 slug: /selecting-biodiversity-conservation-area
 date: 2022-10-26 23:32
 description: Selecting a biodiversity conservation area with a limited budget
