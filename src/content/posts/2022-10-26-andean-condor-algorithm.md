@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Andean Condor Algorithm
-slug: /minimalists-desk
+slug: /andean-condor-algorithm
 date: 2022-10-26 22:10
 description: Andean Condor Algorithm
 featuredImage: ""
