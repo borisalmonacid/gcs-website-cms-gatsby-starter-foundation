@@ -2,7 +2,7 @@
 template: blog-post
 title: Andean Condor Algorithm
 slug: /andean-condor-algorithm
-date: 2022-10-26 22:10
+date: 2022-10-26 23:19
 description: Andean Condor Algorithm
 featuredImage: /assets/alex-zr48yvupk04-unsplash.jpg
 ---
